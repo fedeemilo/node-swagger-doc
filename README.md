@@ -95,3 +95,5 @@ npm install
 
 npm start
 ```
+
+### Tutorial in youtube: https://www.youtube.com/watch?v=apouPYPh_as
